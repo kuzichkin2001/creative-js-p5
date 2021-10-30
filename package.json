@@ -1,0 +1,14 @@
+{
+  "name": "creativecoding",
+  "version": "1.0.0",
+  "description": "creative coding on p5.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "awsmpshk",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.4.0"
+  }
+}
